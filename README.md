@@ -11,6 +11,6 @@ In order to get started, create a [Gitpod](https://gitpod.io) account (if you
 don't already have one) and then deploy the initial Gitpod workspace for this
 lab using the following URL:
 
-https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-00
+[https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-00](https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-00)
 
 Once deployed, follow the instructions in the README located in the workspace.
