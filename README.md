@@ -45,7 +45,7 @@
 > NOTE: there will be a Q&A session at the end of this module. During this time,
 > you should stop the current Gitpod workspace and deploy the next branch in
 > Gitpod using this URL:
-> https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-01
+> https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-01
 
 # Protocol and Controller Analysis (branch-01)
 
@@ -83,7 +83,7 @@
 
 ## Steps
 
-  1. If you have not already done so, deploy a new Gitpod workspace for this branch using this URL: https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-01
+  1. If you have not already done so, deploy a new Gitpod workspace for this branch using this URL: https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-01
   1. Browse to the public port exposed by Gitpod for the `wireshark` container (add `/vnc.html` to the primary URL similar to the Node-RED HMI)
       * Copy the provided on the Ports tab for Wireshark (or click on `world` icon to right of links) to open a separate in the browser
       * Click the `Connect` button in the NoVNC dialogue
@@ -101,7 +101,7 @@
 > NOTE: there will be a Q&A session at the end of this module. During this time,
 > you should stop the current Gitpod workspace and deploy the next branch in
 > Gitpod using this URL:
-> https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-02
+> https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-02
 
 # Class-wide AitM Walk-through (branch-02)
 
@@ -155,7 +155,7 @@
 
 ## Steps
 
-  1. If you have not already done so, deploy a new Gitpod workspace for this branch using this URL: https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-02
+  1. If you have not already done so, deploy a new Gitpod workspace for this branch using this URL: https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-02
   1. Browse to the public port exposed by Gitpod for the `adversary` container (`/vnc.html` path)
       * Copy the provided on the Ports tab for Adversary (or click on `world` icon to right of links) to open a separate in the browser
       * Click the `Connect` button in the NoVNC dialogue
