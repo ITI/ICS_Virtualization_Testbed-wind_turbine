@@ -39,4 +39,4 @@
 > NOTE: there will be a Q&A session at the end of this module. During this time,
 > you should stop the current Gitpod workspace and deploy the next branch in
 > Gitpod using this URL:
-> https://gitpod.io/#https://github.com/patsec/uiuc-lab/tree/branch-01
+> https://gitpod.io/#https://github.com/ITI/ICS_Virtualization_Testbed-wind_turbine/tree/branch-01
